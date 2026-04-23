@@ -1,11 +1,10 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
-DOMAIN, gechongpu.imwork.net
-DOMAIN, cdnfhnfile.115cdn.net
-DOMAIN-KEYWORD,115.com
-# MyList
+域名，gechongpu.imwork.net
+
+# 我的列表
 #玩偶哥哥（直连）
-DOMAIN-KEYWORD,115.com
-DOMAIN-KEYWORD,wogg
+域名-关键词，115.com
+
 DOMAIN-SUFFIX,wogg.link
 DOMAIN-SUFFIX,wogg.xyz
 DOMAIN-SUFFIX,xxooo.cf
@@ -22,22 +21,22 @@ DOMAIN-SUFFIX,pan666.net
 DOMAIN-KEYWORD,yunpan
 DOMAIN-SUFFIX,yunpan1.cc
 #厂长资源（直连）
-DOMAIN-KEYWORD,czzy
-DOMAIN-KEYWORD,czys
-DOMAIN-SUFFIX,czzy88.com
-DOMAIN-SUFFIX,czzy22.com
-DOMAIN-SUFFIX,czzy66.com
-DOMAIN-SUFFIX,cz233.com
-DOMAIN-SUFFIX,czys.top
-DOMAIN-SUFFIX,czzy77.com
+域名-关键词，czzy
+
+域名后缀，czzy88.com
+域名后缀，czzy22.com
+域名后缀，czzy66.com
+域名后缀，cz233.com
+域名后缀，czys.top
+
 #在线之家（直连）
-DOMAIN-KEYWORD,zxzj
-DOMAIN-SUFFIX,zxzja.com  
-DOMAIN-SUFFIX,zxzjhd.com  
-DOMAIN-SUFFIX,zxzj.pro  
+域名-关键词,zxzj
+域名后缀,zxzja.com
+域名后缀,zxzjhd.com
+域名后缀,zxzj.pro
 #低端影视（直连）
-DOMAIN-KEYWORD,ddys
-DOMAIN-SUFFIX,ddys.pro  
+域名-关键词,ddys
+
 DOMAIN-SUFFIX,ddys.mov 
 #AGE动漫（直连）
 DOMAIN-SUFFIX,agedm.org
