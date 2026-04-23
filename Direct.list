@@ -1,5 +1,6 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 DOMAIN, gechongpu.imwork.net
+DOMAIN, cdnfhnfile.115cdn.net
 # MyList
 #玩偶哥哥（直连）
 DOMAIN-KEYWORD,wogg
